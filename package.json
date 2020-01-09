@@ -1,0 +1,19 @@
+{
+  "name": "alphas-numerals",
+  "version": "1.0.0",
+  "description": "Repo for an end to end application.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/techdev-sree/Alphas-Numerals.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/techdev-sree/Alphas-Numerals/issues"
+  },
+  "homepage": "https://github.com/techdev-sree/Alphas-Numerals#readme"
+}
